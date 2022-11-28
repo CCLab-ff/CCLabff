@@ -1,0 +1,45 @@
+html, body {
+  background-color:#9DA8C1  ;
+  margin: 0px;
+  
+}
+
+canvas {
+  display: block;
+  
+}
+
+#canvasContainer{
+  position: absolute;
+  left: 20px;
+  top: 500px;
+  padding-bottom: 150px;
+  padding-top: 0px;
+}
+#title1 {
+ margin-top: 100px;
+ padding-top: 100px;
+ padding-left: 180px;
+ font-size: 80px;
+ font-family: 'Rubik Marker Hatch', cursive;
+ color: #181C63  ;
+ 
+
+}
+#desc {
+  position: absolute;
+  top: 450px;
+  left: 600px;
+  font-size: 27px;
+  font-weight: bolder;
+  background-color: #E5E5CD   ;
+  padding-top: 50px;
+  padding-left: 280px;
+  padding-right: 100px;
+  padding-bottom: 600px;
+  color: #24228C  ;
+ 
+
+  
+  
+}
